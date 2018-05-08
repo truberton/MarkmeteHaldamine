@@ -34,7 +34,7 @@ namespace MarkmeteHaldamine
                         Environment.Exit(0);
                         break;
                     default:
-                        Console.WriteLine("The fuck");
+                        Console.WriteLine("Please try again");
                         break;
                 }
             }
