@@ -4,11 +4,11 @@ using System.Xml.Linq;
 
 namespace MarkmeteHaldamine
 {
+    /// <summary>
+    /// This class creates a new note in the XML file.
+    /// </summary>
     class New
     {
-        /// <summary>
-        /// This class creates a new note in the XML file.
-        /// </summary>
         /// <example>
         /// <code>
         /// uus.Create();

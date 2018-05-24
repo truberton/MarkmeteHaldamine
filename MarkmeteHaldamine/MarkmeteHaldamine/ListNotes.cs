@@ -3,11 +3,11 @@ using System.Xml;
 
 namespace MarkmeteHaldamine
 {
+    /// <summary>
+    /// This class lists the notes that already exist.
+    /// </summary>
     class ListNotes
     {
-        /// <summary>
-        /// This class lists the notes that already exist.
-        /// </summary>
         public void List()
         {
             Console.WriteLine("Olemasolevad märkmed on:");

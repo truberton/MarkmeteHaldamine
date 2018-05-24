@@ -4,11 +4,11 @@ using System.Xml;
 
 namespace MarkmeteHaldamine
 {
+    /// <summary>
+    /// This class deletes the chosen note.
+    /// </summary>
     class Kustutada
     {
-        /// <summary>
-        /// This class deletes the chosen note.
-        /// </summary>
         public void kustuta()
         {
             XmlDocument doc = new XmlDocument();
