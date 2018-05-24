@@ -4,6 +4,9 @@ namespace MarkmeteHaldamine
 {
     class CreateXML
     {
+        /// <summary>
+        /// This class creates an XML file.
+        /// </summary>
         public void create()
         {
             XmlWriter xmlWriter = XmlWriter.Create("markmed.xml");

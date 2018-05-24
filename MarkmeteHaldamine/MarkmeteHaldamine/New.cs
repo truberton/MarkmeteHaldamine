@@ -6,6 +6,14 @@ namespace MarkmeteHaldamine
 {
     class New
     {
+        /// <summary>
+        /// This class creates a new note in the XML file.
+        /// </summary>
+        /// <example>
+        /// <code>
+        /// uus.Create();
+        /// </code>
+        /// </example>
         public void Create()
         {
             Console.WriteLine("Mis on pealkiri?");

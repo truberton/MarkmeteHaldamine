@@ -5,6 +5,9 @@ namespace MarkmeteHaldamine
 {
     class ListNotes
     {
+        /// <summary>
+        /// This class lists the notes that already exist.
+        /// </summary>
         public void List()
         {
             Console.WriteLine("Olemasolevad märkmed on:");

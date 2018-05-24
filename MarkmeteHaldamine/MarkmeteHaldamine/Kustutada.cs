@@ -6,6 +6,9 @@ namespace MarkmeteHaldamine
 {
     class Kustutada
     {
+        /// <summary>
+        /// This class deletes the chosen note.
+        /// </summary>
         public void kustuta()
         {
             XmlDocument doc = new XmlDocument();

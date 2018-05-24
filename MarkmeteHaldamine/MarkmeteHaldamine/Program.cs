@@ -3,6 +3,9 @@ using System.IO;
 
 namespace MarkmeteHaldamine
 {
+    /// <summary>
+    /// This program is meant to keep and manage notes in an XML file.
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
